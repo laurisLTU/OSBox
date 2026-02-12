@@ -21,7 +21,7 @@ Section: utils
 Priority: optional
 Architecture: ${ARCH}
 Depends: default-jre, gcc, grub-pc-bin, xorriso, mtools
-Maintainer: Laurynas
+Maintainer: lauris
 Description: OSBox - Build your own OS from one C file
  A simple IDE for building bootable OS kernels.
 EOF
